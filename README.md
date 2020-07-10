@@ -8,4 +8,4 @@
 - 📫 How to reach me: [@im___safwan](https://instagram.com/im___safwan) on Instagram
 - ⚡ Fun fact: Big Fan of the :zap: emoji
 
-My Personal website is https://blog.athulcyriac.co
+My Personal website is https://safwanvk.live
