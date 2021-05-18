@@ -13,8 +13,9 @@
 <a href="https://www.linkedin.com/in/safwan-vk/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 </div>
+
+### A Developer & Contributor
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
@@ -26,6 +27,14 @@
 - 🕺️ I’m looking to collaborate on Cool Projects/Products
 - ⚡ Fun fact: Big Fan of the :zap: emoji
 - 📄 [Portfolio][profile]
+
+### Languages & Tools
+
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
 <summary>📝 My GitHub Stats</summary>
