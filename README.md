@@ -27,5 +27,12 @@
 - ⚡ Fun fact: Big Fan of the :zap: emoji
 - 📄 [Portfolio][profile]
 
+
+<summary>📝 My GitHub Stats</summary>
+<br>
+
+[![Safwan's github stats](https://github-readme-stats.vercel.app/api?username=safwanvk&theme=gotham)](https://github.com/safwanvk/github-readme-stats)
+
+
 [dsccui]: https://xanthron.com/
 [profile]: https://safwanvk.live/
