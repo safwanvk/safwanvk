@@ -37,6 +37,11 @@
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
+📝 My GitHub Stats
+<br>
+
+[![Muhammed safwan vk's github stats](https://github-readme-stats.vercel.app/api?username=safwanvk&count_private=true&theme=gotham&showicons=true)](https://github.com/safwanvk/github-readme-stats)
+
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
