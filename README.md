@@ -21,7 +21,7 @@
 
 #### Talking about my personal stuff:
 
-- 🙋‍♂️ Active SE at [Xanthron][dsccui]
+- 🙋‍♂️ Active SWE at [Xanthron][dsccui]
 - 💻 The tech I'm interested in Python and Back-End Development
 - 🌱 I’m currently learning React
 - 🕺️ I’m looking to collaborate on Cool Projects/Products
