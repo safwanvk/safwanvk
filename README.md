@@ -56,4 +56,4 @@ Other        9 mins          ▒░░░░░░░░░░░░░░░░
 
 
 [dsccui]: https://xanthron.com/
-[profile]: https://safwanvk.live/
+[profile]: https://safwanvk.tech/
