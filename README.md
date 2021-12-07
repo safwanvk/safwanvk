@@ -21,7 +21,7 @@
 
 #### Talking about my personal stuff:
 
-- 🙋‍♂️ Active SWE at [Xanthron][dsccui]
+- 🙋‍♂️ Active Python Developer at [V-Phoenix Technologies][dsccui]
 - 💻 The tech I'm interested in Python and Back-End Development
 - 🌱 I’m currently learning FastAPI & Deta
 - 🕺️ I’m looking to collaborate on Cool Projects/Products
@@ -54,5 +54,5 @@ HTML         5 hrs 34 mins   █████▒░░░░░░░░░░░
 
 
 
-[dsccui]: https://xanthron.com/
+[dsccui]: https://v-phoenix.com/
 [profile]: https://safwanvk.tech/
