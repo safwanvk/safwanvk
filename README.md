@@ -21,7 +21,7 @@
 
 #### Talking about my personal stuff:
 
-- 🙋‍♂️ Active Python Developer at [V-Phoenix Technologies][dsccui]
+- 🙋‍♂️ Active SDE-1 at [GI Group Holdings][dsccui]
 - 💻 The tech I'm interested in Python and Back-End Development
 - 🌱 I’m currently learning FastAPI & Deta
 - 🕺️ I’m looking to collaborate on Cool Projects/Products
@@ -57,5 +57,5 @@ JSON         11 mins         ▒░░░░░░░░░░░░░░░░
 
 
 
-[dsccui]: https://v-phoenix.com/
+[dsccui]: https://giholdingcorp.com/
 [profile]: https://safwanvk.tech/
