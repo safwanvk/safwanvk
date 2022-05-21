@@ -21,7 +21,7 @@
 
 #### Talking about my personal stuff:
 
-- 🙋‍♂️ Active SDE-1 at [GI Group Holdings][dsccui]
+- 🙋‍♂️ Active Software Engineer at [GI Group Holdings][dsccui]
 - 💻 The tech I'm interested in Python and Back-End Development
 - 🌱 I’m currently learning FastAPI & Deta
 - 🕺️ I’m looking to collaborate on Cool Projects/Products
