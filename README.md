@@ -60,4 +60,4 @@ Other        5 mins          ░░░░░░░░░░░░░░░░░
 
 
 [dsccui]: https://giholdingcorp.com/
-[profile]: https://safwanvk.tech/
+[profile]: https://safwanvk.github.io/
