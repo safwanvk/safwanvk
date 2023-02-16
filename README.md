@@ -21,7 +21,7 @@
 
 #### Talking about my personal stuff:
 
-- 🙋‍♂️ Active Software Engineer at [GI Group Holdings][dsccui]
+- 🙋‍♂️ Active Software Engineer at [Epixel Solutions Pvt Ltd][dsccui]
 - 💻 The tech I'm interested in Python and Back-End Development
 - 🌱 I’m currently learning FastAPI & Deta
 - 🕺️ I’m looking to collaborate on Cool Projects/Products
@@ -55,5 +55,5 @@ No activity tracked
 
 
 
-[dsccui]: https://giholdingcorp.com/
+[dsccui]: https://www.epixelmlmsoftware.com/
 [profile]: https://safwanvk.github.io/
