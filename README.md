@@ -48,7 +48,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python       26 mins         ██████████▒░░░░░░░░░░░░░░   41.46 %
+Other        16 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.59 %
+Bash         8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
+Makefile     8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
+Text         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
 ```
 
 <!--END_SECTION:waka-->
